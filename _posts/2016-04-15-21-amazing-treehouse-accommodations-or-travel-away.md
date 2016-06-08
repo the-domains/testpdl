@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-08T12:15:52.280Z'
+datePublished: '2016-06-08T12:17:45.887Z'
 sourcePath: _posts/2016-04-15-21-amazing-treehouse-accommodations-or-travel-away.md
 inFeed: true
 isBasedOnUrl: 'http://travelaway.me/treehouse-accommodation/'
@@ -39,7 +39,7 @@ author:
   - name: Sam
     url: 'http://blog.frontiergap.com/'
     avatar: {}
-dateModified: '2016-06-08T12:15:48.291Z'
+dateModified: '2016-06-08T12:17:45.392Z'
 title: 21 Amazing Treehouse Accommodations | Travel Away
 app_links: []
 publisher:
@@ -56,7 +56,7 @@ description: >-
   architectural marvels with high-tech interiors and contemporary amenities.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
