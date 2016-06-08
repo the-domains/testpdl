@@ -1,0 +1,14 @@
+layout_spectrum: 0.47483261092565954
+typography_spectrum: 0.16910058073699474
+color:
+  brandStrength: 0.96577910752967
+  lightness: 0.9614056572318077
+  saturation: 0.22230056743137538
+  rhythmicContrast: 0.15390808694064617
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Testpdl
