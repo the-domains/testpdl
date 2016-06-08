@@ -24,10 +24,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.perrydeloor.be/'
 title: Director/Producer/Writer/Videoreporter | Perry de Loor
-datePublished: '2016-06-08T16:51:46.729Z'
-dateModified: '2016-06-08T12:21:51.875Z'
-starred: false
+datePublished: '2016-06-08T17:07:43.125Z'
+dateModified: '2016-06-08T17:07:42.766Z'
 sourcePath: _posts/2016-06-08-directorproducerwritervideoreporter-or-perry-de-loor.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
