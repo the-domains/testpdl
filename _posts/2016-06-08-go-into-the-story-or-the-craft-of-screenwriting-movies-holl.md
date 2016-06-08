@@ -31,11 +31,11 @@ isBasedOnUrl: 'http://gointothestory.blcklst.com/'
 title: >-
   Go Into The Story | The craft of screenwriting, movies, Hollywood, and the
   creative life
-datePublished: '2016-06-08T12:22:49.333Z'
-dateModified: '2016-06-08T12:21:13.502Z'
-starred: false
+datePublished: '2016-06-08T12:23:01.522Z'
+dateModified: '2016-06-08T12:23:01.113Z'
 sourcePath: >-
   _posts/2016-06-08-go-into-the-story-or-the-craft-of-screenwriting-movies-holl.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
