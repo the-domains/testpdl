@@ -1,5 +1,6 @@
-layout_spectrum: 0.47483261092565954
 typography_spectrum: 0.16910058073699474
+content_rating:
+  adult: false
 color:
   brandStrength: 0.96577910752967
   lightness: 0.9614056572318077
@@ -11,4 +12,11 @@ color:
     - '#A8AD80'
     - '#E6D4A7'
     - '#825534'
+layout_spectrum: 0.47483261092565954
+author:
+  name: perry
+  email: perrydeloor@gmail.com
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d28158ac-e64a-4099-b624-45ce13ceee18.jpg'
 name: Testpdl
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/52fcaf1b-6b41-4cd6-88fc-95fcdad7ed4d.jpg'
+title: This is the best text ever
