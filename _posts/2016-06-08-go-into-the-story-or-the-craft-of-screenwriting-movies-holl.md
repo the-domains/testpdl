@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-09T19:17:13.135Z'
+datePublished: '2016-06-09T19:17:20.185Z'
 sourcePath: >-
   _posts/2016-06-08-go-into-the-story-or-the-craft-of-screenwriting-movies-holl.md
 isBasedOnUrl: 'http://gointothestory.blcklst.com/'
@@ -19,7 +19,7 @@ author:
   - name: Scott
     url: 'http://gointothestory.blcklst.com/author/admin'
     avatar: {}
-dateModified: '2016-06-09T18:51:23.953Z'
+dateModified: '2016-06-09T19:17:19.736Z'
 title: Don’t know what this is about.
 app_links: []
 publisher:
@@ -29,7 +29,7 @@ publisher:
   domain: gointothestory.blcklst.com
 description: 'Dear guys, I’ve no idea what I’m doing here. Just trying some things...'
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
