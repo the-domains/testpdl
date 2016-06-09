@@ -1,22 +1,24 @@
-typography_spectrum: 0.16910058073699474
+typography_spectrum: 0.12997398851439357
 content_rating:
   adult: false
 color:
-  brandStrength: 0.96577910752967
-  lightness: 0.9614056572318077
-  saturation: 0.22230056743137538
-  rhythmicContrast: 0.15390808694064617
+  brandStrength: 0.2236574289854616
+  lightness: 0.41048249206505716
+  saturation: 0.9561576300766319
+  rhythmicContrast: 0.4296345349866897
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
-layout_spectrum: 0.8508423892781138
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.22158181830309331
 author:
   name: perry
   email: perrydeloor@gmail.com
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/d28158ac-e64a-4099-b624-45ce13ceee18.jpg'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d28158ac-e64a-4099-b624-45ce13ceee18.jpg
 name: Testpdl
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/52fcaf1b-6b41-4cd6-88fc-95fcdad7ed4d.jpg'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/52fcaf1b-6b41-4cd6-88fc-95fcdad7ed4d.jpg
 title: This is the best text ever
