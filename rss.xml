@@ -4,7 +4,7 @@
         <description><![CDATA[This is the best text ever]]></description>
         <link>https://thegrid.ai/testpdl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 13:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 13:31:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testpdl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#32 - MAX LANDIS - Screenwriter/Director AMERICAN ULTRA - VICTOR FRANKENSTEIN - CHRONICLE - ME HIM HER - ARIANA GRANDE MUSIC VIDEO]]></title>
@@ -28,13 +28,6 @@
             <pubDate>Tue, 02 Aug 2016 13:31:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Les Choses en Face]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/157e81b7d146d72d263b18be0aaae9ad81226bf7.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/testpdl/les-choses-en-face/index.html</link>
-            <guid isPermaLink="false">ef924259-f6f6-41f7-b947-3ebfb6792b6a</guid>
-            <pubDate>Tue, 02 Aug 2016 13:31:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://gamingbolt.com/wp-content/uploads/2016/03/Final-Fantasy-15.jpg">]]></description>
             <link>http://gamingbolt.com/final-fantasy-15-this-is-how-developers-are-creating-3d-monsters-in-the-game</link>
@@ -47,13 +40,6 @@
             <link>https://thegrid.ai/testpdl/les-choses-en-face/index.html</link>
             <guid isPermaLink="false">4cdd4f58-ac7a-49da-a826-a155ca7b52d7</guid>
             <pubDate>Tue, 02 Aug 2016 13:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/314c74bba0fff29f8e78f682e0f704dd7ae403bb.jpg" alt="" title="">]]></description>
-            <link>http://gointothestory.blcklst.com/</link>
-            <guid isPermaLink="false">19883235-c53e-4ddc-87ce-1855ed93402c</guid>
-            <pubDate>Tue, 02 Aug 2016 13:31:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Alfred Hitchcock Blocks A Scene]]></title>
@@ -75,6 +61,20 @@
             <link>http://nofilmschool.com/2014/03/house-of-cards-dp-camera-lighting-secrets-netflix-red-epic</link>
             <guid isPermaLink="false">395198fe-3873-4c90-976b-d88fb3231fbe</guid>
             <pubDate>Tue, 02 Aug 2016 13:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Film project for Arkite]]></title>
+            <description><![CDATA[<article><h1>Film project for Arkite</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35312e34f4fd46ed1d39e15b016f6b5734ba3d2e.jpg"></article>]]></description>
+            <link>http://www.arkite.be/</link>
+            <guid isPermaLink="false">3ddd3250-2327-47f7-889e-9898ae87545e</guid>
+            <pubDate>Tue, 02 Aug 2016 13:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/164d7b24-cbff-4eb2-a318-d88730643d2e.jpg">]]></description>
+            <link>https://thegrid.ai/testpdl/f1377458-e943-4961-ac27-2b6864f60a25/index.html</link>
+            <guid isPermaLink="false">f1377458-e943-4961-ac27-2b6864f60a25</guid>
+            <pubDate>Wed, 15 Jun 2016 17:13:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
