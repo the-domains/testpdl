@@ -4,8 +4,22 @@
         <description><![CDATA[This is the best text ever]]></description>
         <link>https://thegrid.ai/testpdl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 17:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 13:31:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testpdl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://gamingbolt.com/wp-content/uploads/2016/03/Final-Fantasy-15.jpg">]]></description>
+            <link>http://gamingbolt.com/final-fantasy-15-this-is-how-developers-are-creating-3d-monsters-in-the-game</link>
+            <guid isPermaLink="false">8ccc60b8-48fa-443f-8e9f-1a5e14bd72f2</guid>
+            <pubDate>Tue, 02 Aug 2016 13:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Film project for Arkite]]></title>
+            <description><![CDATA[<article><h1>Film project for Arkite</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35312e34f4fd46ed1d39e15b016f6b5734ba3d2e.jpg"></article>]]></description>
+            <link>http://www.arkite.be/</link>
+            <guid isPermaLink="false">3ddd3250-2327-47f7-889e-9898ae87545e</guid>
+            <pubDate>Tue, 02 Aug 2016 13:31:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/164d7b24-cbff-4eb2-a318-d88730643d2e.jpg">]]></description>
